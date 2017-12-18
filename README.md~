@@ -76,10 +76,4 @@ Follow the code to clone this repository.
 
 ### NOTE ###
 
-1.Read the README file in each package before running it.
-
-2.Other package to download inside the workspace.
-	a)navigation-indigo-devel
-	b)robot_pose_publisher-develop
-	c)rosserial
-	d)learning_tf
+Read the README file in each package before running it.
