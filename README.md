@@ -63,7 +63,7 @@ sudo apt-get install ros-indigo-sound-play
 Follow the code to clone this repository.
 
 	$ cd ~/sayabot_ws/src
-	$ git clone https://Niranjan_MJ@bitbucket.org/saya_new/saya_hospitality-ros-pkg.git # (copy the url from clone option in bitbucket)
+	$ git clone https://github.com/gokul-gokz/IRA_v1.git # (copy the url from clone option in bitbucket)
 
 -----------------------
 
